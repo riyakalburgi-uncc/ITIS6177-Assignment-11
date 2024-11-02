@@ -1,0 +1,22 @@
+{
+  "name": "itis6177-assignment-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyakalburgi-uncc/ITIS6177-Assignment-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyakalburgi-uncc/ITIS6177-Assignment-11/issues"
+  },
+  "homepage": "https://github.com/riyakalburgi-uncc/ITIS6177-Assignment-11#readme",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
